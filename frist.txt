@@ -1,1 +1,2 @@
 git is aa a a  第一个文件
+Creating a new branch is quick & simple.
